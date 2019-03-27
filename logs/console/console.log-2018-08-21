@@ -1,0 +1,28 @@
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 9368
+
+
+Insert sql is INSERT INTO peer  ( "requests","genesis_block_hash","server_hostname" ) VALUES( $1,$2,$3  ) RETURNING *;
+Insert sql is INSERT INTO chaincodes  ( "name","version","path","genesis_block_hash" ) VALUES( $1,$2,$3,$4  ) RETURNING *;
+Insert sql is INSERT INTO channel  ( "name","createdt","blocks","trans","channel_hash","genesis_block_hash" ) VALUES( $1,$2,$3,$4,$5,$6  ) RETURNING *;
+INSERT ID: 8
+INSERT ID: 17
+INSERT ID: 10
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 53
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 58
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 54
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 59
+Failed to receive the block event ::Error: 12 UNIMPLEMENTED: unknown service protos.Deliver
+Received kill signal, shutting down gracefully
+Closed out remaining connections

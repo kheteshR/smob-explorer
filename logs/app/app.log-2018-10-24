@@ -1,0 +1,66 @@
+[2018-10-24 18:51:25.971] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 18:51:25.982] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 18:51:26.127] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 18:51:26.127] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 18:51:26.135] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-24 18:51:26.135] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2018-10-24 18:58:28.503] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 18:58:28.514] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 18:58:28.555] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 18:58:28.555] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 18:58:28.560] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-24 18:58:28.560] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2018-10-24 19:00:17.926] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 19:00:17.937] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 19:00:17.977] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 19:00:17.977] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 19:02:57.883] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 19:02:57.896] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 19:02:57.943] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 19:02:57.943] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 19:02:57.950] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-24 19:02:57.950] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2018-10-24 19:02:57.993] [DEBUG] Query - ===========================================
+[2018-10-24 19:02:57.993] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 bb dd 3d 8b 3e cb ae cd 21 c4 c5 2d ef ae ba f7 3a ae e2 e4 7e 55 ba 9a f3 13 98 a2 40 17 de 22 1a 20 83 63 2e b2 f1 f1 c4 fb 92 00 3f ef ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-24 19:02:57.995] [DEBUG] Query - ===========================================
+[2018-10-24 19:02:58.000] [DEBUG] Query - ===========================================
+[2018-10-24 19:02:58.000] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 bb dd 3d 8b 3e cb ae cd 21 c4 c5 2d ef ae ba f7 3a ae e2 e4 7e 55 ba 9a f3 13 98 a2 40 17 de 22 1a 20 83 63 2e b2 f1 f1 c4 fb 92 00 3f ef ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-24 19:02:58.000] [DEBUG] Query - ===========================================
+[2018-10-24 19:03:50.576] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2018-10-24 19:11:45.342] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 19:11:45.357] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-10-24 19:11:45.442] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 19:11:45.442] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-10-24 19:11:45.447] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-10-24 19:11:45.447] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2018-10-24 19:11:45.482] [DEBUG] Query - ===========================================
+[2018-10-24 19:11:45.482] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 bb dd 3d 8b 3e cb ae cd 21 c4 c5 2d ef ae ba f7 3a ae e2 e4 7e 55 ba 9a f3 13 98 a2 40 17 de 22 1a 20 83 63 2e b2 f1 f1 c4 fb 92 00 3f ef ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-24 19:11:45.483] [DEBUG] Query - ===========================================
+[2018-10-24 19:11:45.489] [DEBUG] Query - ===========================================
+[2018-10-24 19:11:45.489] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 bb dd 3d 8b 3e cb ae cd 21 c4 c5 2d ef ae ba f7 3a ae e2 e4 7e 55 ba 9a f3 13 98 a2 40 17 de 22 1a 20 83 63 2e b2 f1 f1 c4 fb 92 00 3f ef ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-10-24 19:11:45.489] [DEBUG] Query - ===========================================
+[2018-10-24 19:12:34.453] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
